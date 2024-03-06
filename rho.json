@@ -1,7 +1,11 @@
 {
-  "printAndInscribe": 400000,
-  "swap": 300000,
-  "transfer": 300000,
-  "init_user": 100000,
-  "rpc": "https://mainnet.helius-rpc.com/?api-key=5a299a58-dede-4d94-ab98-a59f318feca3"
+  "computeUnits": {
+    "mint": 400000,
+    "swap": 300000,
+    "transfer": 300000,
+    "initUser": 100000
+  },
+  "rpc": "https://mainnet.helius-rpc.com/?api-key=5a299a58-dede-4d94-ab98-a59f318feca3",
+  "coomingSoonEnabled": true,
+  "launchDate": "2024-03-07T16:00:00.000Z"
 }
