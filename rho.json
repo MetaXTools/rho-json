@@ -5,5 +5,7 @@
     "transfer": 300000,
     "initUser": 100000
   },
-  "rpc": "https://solana-mainnet.rpc.extrnode.com/fe392ff2-8bcb-416a-9836-1d978409f9e8"
+  "newRpc": "https://solana-mainnet.rpc.extrnode.com/fe392ff2-8bcb-416a-9836-1d978409f9e8",
+  "rpc": "https://candide-f1jsnv-fast-mainnet.helius-rpc.com/"
+  "feeCalculator": "https://candide-f1jsnv-fast-mainnet.helius-rpc.com/",
 }
